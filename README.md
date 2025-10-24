@@ -1,69 +1,63 @@
-# project-portfolio
-A curated portfolio of my technical skills, projects, and professional journey as a Computer Science and Engineering student.
-
-Here’s an updated version of your **README.md** with a focus on skills and highlighted projects:
-
----
-
 # 👋 Welcome to My GitHub!  
 
-I’m **Dželila Halilović Akinci**, a **Computer Science and Engineering student** at the **International University of Sarajevo**. My GitHub serves as a showcase of my skills and projects, reflecting my journey in programming and software development.  
+I’m **Dželila Halilović Akinci**, a **Computer Science and Engineering graduate** from the **International University of Sarajevo**. My GitHub serves as a showcase of my technical skills and project experience, reflecting my journey in software development, data analysis, and cloud-native architecture.
 
 ---
 
 ## 🛠️ Skills Overview  
 
 ### **Programming and Development**  
-- **Languages:** Java (Expert), HTML, CSS, JavaScript, Python (Basic), C, C++, C#, Julia  
-- **Frameworks and Libraries:** Spring Boot, Next.js, React  
+- **Languages:** Java, JavaScript, Python, HTML, CSS, C++, SQL  
+- **Frameworks & Libraries:** Spring Boot, Next.js, React  
 - **Database Management:** PostgreSQL, MongoDB  
-- **Tools:** Postman, Swagger/OpenAPI  
-
-### **Specialized Skills**  
-- **Web Scraping:** Jsoup (Developed automated scraping solutions with email notifications)  
-- **Messaging & Queuing Systems:** Google Pub/Sub, Kafka (Explored scalable messaging architectures)  
-- **Networking:** Basic networking knowledge (Fortinet course in progress)  
-- **Data Analysis & Visualization:** Power BI  
+- **Tools & APIs:** Postman, Swagger/OpenAPI, Docker, Keycloak, Azure Queue, Azure Functions  
+- **Data & AI:** Pandas, Matplotlib, LLM Integration, WebRTC  
 
 ---
 
 ## 🚀 Highlighted Projects  
 
-### **1. ekupi.ba AC Monitor**  
-- Built a Java-based web scraper using **Jsoup** to monitor air conditioner listings on ekupi.ba.  
-- Automated email alerts with filtered results using **JavaMail**.  
-- Integrated a crawler for scheduled checks and an API for on-demand updates.  
+### **1. MedSync – Digital Healthcare Platform**  
+*Java, Spring Boot, PostgreSQL, Next.js, WebRTC, LLM, JWT, Docker*  
+- Architected a full-stack platform with role-based interfaces for patients, doctors, and administrators.  
+- Implemented secure medical record handling, appointment scheduling, and emergency communication.  
+- Integrated real-time video consultations using WebRTC and built an AI-powered symptom checker with LLM.  
+- Designed a responsive Next.js frontend and a scalable RESTful backend with JWT authentication.
 
-### **2. Messaging and Queuing System**  
-- Designed two mini-servers leveraging **Google Pub/Sub** for message publishing and retrieval.  
-- Developed APIs for server-to-server message delivery.  
+### **2. Inventory Tracking System**  
+*Java, Spring Boot, PostgreSQL, Keycloak, Next.js, Azure Queue, Azure Functions*  
+- Developed a secure inventory management system with role-based access via Keycloak and JWT.  
+- Built RESTful backend services and a responsive Next.js frontend.  
+- Implemented asynchronous communication using Azure Queue Storage and Azure Functions.  
+- Containerized with Docker and orchestrated using docker-compose.
 
-### **3. Inventory Tracking Website**  
-- Created a full-stack inventory management system using **React.js**, **Node.js**, and **MongoDB**.  
-- Enabled users to manage stock, view detailed item information, and track inventory levels.  
+### **3. Data Analysis & Visualization**  
+*Python, Pandas, Matplotlib, CSV*  
+- Cleaned and transformed structured data from CSV files using Pandas.  
+- Performed statistical analysis (mean, median, standard deviation).  
+- Visualized trends and distributions using Matplotlib.  
+- Focused on reproducible scripts and clear presentation of insights.
 
-### **4. Artificial Neural Network for Fruit Recognition**  
-- Developed an **ANN** in **Python** to classify fruit types based on image datasets.  
-
-### **5. Hotel Website**  
-- Designed a dynamic hotel booking website using **React.js** and **Node.js** for seamless user experience.  
+### **4. Hotel Booking Website**  
+*JavaScript, HTML/CSS, Email API*  
+- Built a responsive hotel booking website with dynamic content and image galleries.  
+- Implemented a booking form that triggers email notifications upon submission.  
+- Structured hotel offerings and room details for intuitive user experience.  
+- Focused on clean UI, form validation, and backend integration for email delivery.
 
 ---
+
 ## 📁 Repository Overview  
 
-This repository highlights my technical expertise and problem-solving skills through comprehensive project documentation, diagrams, and step-by-step guides.  
+This repository highlights my technical expertise and problem-solving skills through comprehensive project documentation, architecture diagrams, and implementation notes.
 
 ### 📄 Code Access  
-While codebases are not publicly available due to sharing restrictions, this repository provides detailed insights through:  
-1. Project architecture and design.  
-2. Tool configurations and integrations.  
-3. Sample workflows and anticipated results.  
+Due to sharing restrictions, codebases are not publicly available. However, this repository provides detailed insights into:  
+1. Project architecture and design decisions  
+2. Tool configurations and integrations  
+3. Sample workflows and anticipated results  
 
-If you'd like to discuss specific projects or explore code in detail, feel free to reach out to me directly.  
-
-Feel free to connect with me or explore my projects further!  
+Feel free to reach out if you'd like to discuss any project in detail, or see a demo!
 
 📧 **Email:** dzelilahalilovic2002@gmail.com  
-🔗 **LinkedIn:** [Dželila Halilović Akinci](https://linkedin.com/in/dzelila-halilovic-akinci)  
-
---- 
+🔗 **LinkedIn:** [Dželila Halilović Akinci](https://linkedin.com/in/dzelila-halilovic-akinci)
